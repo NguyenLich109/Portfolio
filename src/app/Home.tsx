@@ -33,10 +33,10 @@ export default function Home() {
         <div className="headline animate-slide-up lg:col-span-2 lg:text-center ">
           <h2 className="text-7xl font-[600] lg:text-6xl md:text-4xl">Hello</h2>
           <h1 className="text-5xl font-[600] py-3 lg:text-4xl lg:py-2 md:text-2xl md:py-1">
-            I'm Nguyễn Văn Lịch
+            I&apos;m Nguyễn Văn Lịch
           </h1>
           <h2 className="text-4xl font-[600] pb-3 text-[#b63e96] lg:text-3xl lg:pb-2 md:text-xl md:py-1">
-            And I'm a <span ref={refText}></span>
+            And I&apos;m a <span ref={refText}></span>
           </h2>
           <span className="text-base lg:text-sm">
             As a Front end developer, I am dedicated to turning ideas into

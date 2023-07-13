@@ -28,16 +28,16 @@ export default function PageAbout() {
         <div className="col-span-3 animate-slide-up">
           <h1 className="font-[600] text-[18px]">BIOGRAPHY</h1>
           <p className="pt-3 ">
-            Hi, I'm CodeBucks, a web developer and UI/UX designer with a passion
-            for creating beautiful, functional, and user-centered digital
-            experiences. With 4 years of experience in the field. I am always
-            looking for new and innovative ways to bring my clients' visions to
-            life.
+            Hi, I&apos;m CodeBucks, a web developer and UI/UX designer with a
+            passion for creating beautiful, functional, and user-centered
+            digital experiences. With 4 years of experience in the field. I am
+            always looking for new and innovative ways to bring my clients
+            visions to life.
           </p>
           <p className="pt-3">
             I believe that design is about more than just making things look
-            pretty – it's about solving problems and creating intuitive,
-            enjoyable experiences for users. Whether I'm working on a website,
+            pretty – it is about solving problems and creating intuitive,
+            enjoyable experiences for users. Whether I am working on a website,
             mobile app, or other digital product, I bring my commitment to
             design excellence and user-centered thinking to every project I work
             on. I look forward to the opportunity to bring my skills and passion
