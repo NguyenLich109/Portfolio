@@ -39,9 +39,10 @@ export default function Skills() {
         <Skill name="ReactJS" x="32vw" y="-5vw" />
         <Skill name="NextJS" x="0vw" y="-20vw" />
         <Skill name="Redux Toolkit" x="17vw" y="-13vw" />
-        <Skill name="SWR" x="-20vw" y="-18vw" />
+        <Skill name="VueJS" x="-20vw" y="-18vw" />
         <Skill name="FireBase" x="-30vw" y="-5vw" />
         <Skill name="GitHub" x="-15vw" y="20vw" />
+        <Skill name="NuxtJS" x="-2vw" y="12vw" />
         <Skill name="Tailwind CSS" x="-32vw" y="13vw" />
       </div>
     </>

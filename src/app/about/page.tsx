@@ -28,9 +28,7 @@ export default function PageAbout() {
         <div className="col-span-3 animate-slide-up">
           <h1 className="font-[600] text-[18px]">BIOGRAPHY</h1>
           <p className="pt-3 ">
-            Hi, I&apos;m CodeBucks, a web developer and UI/UX designer with a
-            passion for creating beautiful, functional, and user-centered
-            digital experiences. With 4 years of experience in the field. I am
+            Hi, I&apos;m Nguyễn Văn Lịch, a web developer. I am
             always looking for new and innovative ways to bring my clients
             visions to life.
           </p>
@@ -50,7 +48,7 @@ export default function PageAbout() {
         <div className="col-span-2 xl:col-span-6 md:col-span-3 flex flex-col items-end xl:flex-row xl:justify-between animate-slide-right">
           <div className="pb-14 xl:pb-0">
             <h1 className="text-end text-7xl font-[600] xl:text-center lg:text-6xl">
-              5
+              10+
             </h1>
             <p className="text-xl font-[500] xl:text-center lg:text-base">
               Projects Completed

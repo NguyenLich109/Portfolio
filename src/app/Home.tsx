@@ -3,6 +3,7 @@
 import { useRef, useEffect } from "react";
 import Typed from "typed.js";
 import { FaExternalLinkAlt } from "react-icons/fa";
+import Link from "next/link";
 
 export default function Home() {
   const refText = useRef<HTMLHeadingElement | null>(null);
@@ -44,6 +45,7 @@ export default function Home() {
             my expertise in React.js and web development.
           </span>
           <br></br>
+          <Link className="text-xl font-[400] lg:text-sm pt-2" href={"mailto:nguyenvanlich199@gmail.com"}>Gmail: nguyenvanlich199@gmail.com</Link>
           <div className="lg:flex lg:justify-center">
             <button
               className="flex items-center mt-2 py-3 px-5 border-2 rounded-lg

@@ -24,7 +24,7 @@ const Details = ({ postion, time, address, work }: typeDetails) => {
         whileInView={{ y: 0 }}
         transition={{ duration: 1, type: "spring" }}
       >
-        <h3 className="text-[24px] font-[600] sm:text-base">{postion}</h3>
+        <h3 className="text-[24px] font-[600] sm:text-base capitalize">{postion}</h3>
         <span className="text-[#5f5f5f]">
           {time} | {address}
         </span>
@@ -55,10 +55,10 @@ export default function Education() {
         />
         <ul className="w-full flex flex-col items-start justify-between ml-4 sm:ml-3">
           <Details
-            postion="Bachelor Of Science In Computer Science"
-            time="2016-2020"
-            address="Massachusetts Institute Of Technology (MIT)"
-            work="Relevant courses included Data Structures and Algorithms, Computer Systems Engineering, and Artificial Intelligence."
+            postion="Hcm city university of transport, Major: Information technology"
+            time="08/2019 - 07/2023"
+            address="Binh Thanh District, Ho Chi Minh city"
+            work=""
           />
         </ul>
       </div>

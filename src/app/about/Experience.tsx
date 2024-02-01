@@ -55,6 +55,7 @@ export default function Experience() {
     target: scrollRef,
     offset: ["start end", "center start"],
   });
+  
   return (
     <div className="mt-32 mb-64">
       <h1 className="text-7xl text-center font-[600] mb-20 md:text-6xl sm:text-4xl">
@@ -70,32 +71,14 @@ export default function Experience() {
         />
         <ul className="w-full flex flex-col items-start justify-between ml-4 sm:ml-3">
           <Details
-            postion="Software Engineer"
-            company="Google"
-            companyLink="https://www.google.com.vn/?hl=vi"
-            time="2022-Present"
-            address="Mountain View, CA"
-            work="Worked on a team responsible for developing new features for Google's search engine, 
-            including improving the accuracy and relevance of search results and developing new tools for data analysis and visualization."
+            postion="Front-End Developer"
+            company="Rbox"
+            companyLink="https://www.rbox.vn/"
+            time="05-2023 - 07-2023"
+            address="Binh Thanh District, Ho Chi Minh city"
+            work="Join as an Rbox intern, join in the development of the collaborative contributor page, this project is a website about human resources recruitment services, project is using language Javascript, ReactJS, .NET ... In order to implement application"
           />
-          <Details
-            postion="Software Engineer"
-            company="Google"
-            companyLink="https://www.google.com.vn/?hl=vi"
-            time="2022-Present"
-            address="Mountain View, CA"
-            work="Worked on a team responsible for developing new features for Google's search engine, 
-            including improving the accuracy and relevance of search results and developing new tools for data analysis and visualization."
-          />
-          <Details
-            postion="Software Engineer"
-            company="Google"
-            companyLink="https://www.google.com.vn/?hl=vi"
-            time="2022-Present"
-            address="Mountain View, CA"
-            work="Worked on a team responsible for developing new features for Google's search engine, 
-            including improving the accuracy and relevance of search results and developing new tools for data analysis and visualization."
-          />
+          
         </ul>
       </div>
     </div>
