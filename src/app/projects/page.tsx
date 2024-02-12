@@ -75,7 +75,7 @@ export default function PageProjects() {
           image="/images/project_3.jpg"
           content="A project clone trello, for this project, I took inspiration from the trello website. I use the following technologies: for Front-end, I use VueJs, for Design, I use Antd, for Backend, I use NodeJS and Express, and for the Database, I employ MongoDB."
           urlGitHub="https://github.com/NguyenLich109/Clone_Trello"
-          urlProject="https://notes-umber-zeta.vercel.app/"
+          urlProject="#"
         />
       </div>
       <div className="mb-20">
